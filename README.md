@@ -1,4 +1,4 @@
-# 🌍 ChronoEye
+# 🌍 ChronoEye (Still in development)
 
 ChronoEye is an interactive 3D Globe visualization tool that combines Tkinter and PyWebView to display dynamic geospatial data in a user-friendly desktop application.
 
