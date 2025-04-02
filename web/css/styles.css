@@ -1,0 +1,38 @@
+body {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #0F172A;
+    color: #F1F5F9;
+    font-family: 'Segoe UI', Arial, sans-serif;
+}
+
+#globe-container {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
+
+#time-display {
+    position: absolute;
+    bottom: 20px;
+    left: 20px;
+    background-color: rgba(15, 23, 42, 0.7);
+    border-radius: 10px;
+    padding: 15px;
+    backdrop-filter: blur(10px);
+    border: 1px solid #3B82F6;
+    box-shadow: 0 0 20px rgba(6, 182, 212, 0.3);
+}
+
+#current-city h2 {
+    margin: 0 0 10px 0;
+    font-size: 24px;
+    color: #06B6D4;
+}
+
+.time {
+    font-size: 36px;
+    font-weight: bold;
+    color: #F1F5F9;
+}
